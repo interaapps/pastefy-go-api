@@ -1,3 +1,3 @@
-module pastefy-go-api
+module pastefy
 
 go 1.17
